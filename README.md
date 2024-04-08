@@ -29,7 +29,7 @@ npm install npm@latest -g
 
 1. **Clone the repo**
 
-   git clone https://github.com/your_username_/Hotelio.git
+   git clone https://github.com/AidanMarroyo/hotelio.git
 
 2. **Install NPM packages for both frontend and backend.**
 
@@ -107,6 +107,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📫
 
-Project Link: [https://github.com/your_username/Hotelio](https://github.com/your_username/Hotelio)
+Project Link: https://github.com/AidanMarroyo/hotelio.git
 
 Happy Booking! 🎉
