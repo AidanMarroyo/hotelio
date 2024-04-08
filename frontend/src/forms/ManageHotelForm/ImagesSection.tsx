@@ -1,6 +1,5 @@
 import { useFormContext } from 'react-hook-form';
 import { HotelFormData } from './ManageHotelForm';
-import { FileInput, Label } from 'flowbite-react';
 
 const ImagesSection = () => {
   const {
