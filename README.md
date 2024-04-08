@@ -107,6 +107,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📫
 
-Project Link: [https://github.com/your_username/Hotelio](https://github.com/your_username/Hotelio)
+Project Link: [https://github.com/AidanMarroyo/hotelio.git]([https://github.com/your_username/Hotelio](https://github.com/AidanMarroyo/hotelio.git))
 
 Happy Booking! 🎉
